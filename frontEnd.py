@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_disqus import st_disqus
 import random_number as rn
 import CNN_train as cnn
 from PIL import ImageTk, Image
